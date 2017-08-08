@@ -1,13 +1,17 @@
 # Jason Northcote
 ## Principal Software Developer, Architect, DevOPS Engineer
 
-> [Download PDF](resume.pdf)  
+> 158 Forest View Dr. San Francisco, CA  
+> (415) 218-3795  
 > [jason.northcote@gmail.com](jason.northcote@gmail.com)  
 > [www.linkedin.com/in/jason-northcote](https://www.linkedin.com/in/jason-northcote)  
-> (415) 218-3795  
+> [Download PDF](resume.pdf)  
 
 ------
+### Profile
+An experienced software developer with an affinity for operations oriented problem solving and a professional carreer spanning 20+ years working for companies ranging from global corporations having 15k+ employees to 5 person shops run from the owner's basement.  While having occupied most roles possible within an engineering organization, a return to a role focused on developing solutions aimed at solving operational challenges is preferable
 
+------
 ### Experience
 
 #### New Relic Inc.
@@ -71,16 +75,26 @@
     * Developed components of a data ETL pipeline from legacy sharded mysql databases to Amazon Redshift analytics datastore
     * Optimized several background maintenance stored procedures reducing execution time from hours to seconds using cursors, indexes, optimized temp tables and eliminating outer joins on inefficient sub-queries
     
-  **Skills:** _mysql, java, scala, nodejs, nginx, lua, consul, redshift, splunk, dynatrace, tomcat, jetty, jboss resource adapter, atomikos, apache httpd, spring, camel, hibernate, infinispan, jersey, jackson, rabbitmq, kafka, memcached, redis, c3p0, aop, git, mercurial, docker, docker-compose, yaml, maven, eclipse emf, andromda, velocity_
+  **Skills:** _mysql, java, scala, nodejs, nginx, lua, consul, redshift, splunk, dynatrace, tomcat, jetty, jboss resource adapter, atomikos, apache httpd, spring, camel, hibernate, infinispan, jersey, jackson, rabbitmq, kafka, memcached, redis, elasticsearch, c3p0, aop, git, mercurial, docker, docker-compose, yaml, maven, eclipse emf, andromda, velocity_
 
 #### Payvment Inc. (rebranded as Lish.com in 2012 and later acquired by Intuit Inc.)
 
 * Formerly a social commerce platform initially focused on allowing small businesses to easily setup a storefront on Facebook leveraging the platform's social interaction and advertising capabilities.  The company later rebranded and launched Lish.com as an alternative social commerce site independent of the Facebook platform
 
   * **Principal Software Engineer** - __May 2011-Jan 2013__
+  Backend engineer responsible for all aspects of data access storage and integration
+    * Developed conversion plan, associated scripts and engine tuning configuration to transition from the ISAM engine to InnoDB
+    * Developed data access REST API java service to replace multiple legacy native PHP data access implementations each with serious issues including SQL injection vulnerabilities, orphaned rows, foreign key violations, lack of transaction management and cross session polution
+    * Developed and implemented database design conversion plan to address issues related to extensive denormalized table definitions, reliance on external identifiers as primary keys, a lack of a principal identity entity and sub-entity ownership
+
+  **Skills:** _mysql, elasticsearch, java, php, zookeeper, jboss, apache httpd, spring, hibernate, infinispan, jersey, jackson, rabbitmq, memcached, aop, git, maven, artifactory, jenkins, hadoop, magicdraw, andromda, velocity_
 
 #### Yahoo Inc. - Yahoo! Groups
 
-* [Yahoo! Groups](https://groups.yahoo.com/neo) - Formerly a relevant search engine, mail provider and web portal
+* [Yahoo! Groups](https://groups.yahoo.com) - Formerly a relevant search engine, mail provider and web portal
 
   * **Senior Software Engineer** - __Jun 2008-Apr 2011__
+  Backend engineer performing in a "swiss army knife" role with a special focus on development projects to address operational issues
+    * Addressed numerous assorted issues requiring extensive "code archeology" within the massive legacy codebase with little to no documentation or remaining team knowledge
+    * Designed a multi-tiered, full-text indexed message search system with multi-datacenter replication spanning over 400 nodes capable of handling the ~7 billion messages as a replacement for the existing non-redundant, non-reproducible message search system nearing capacity
+    
