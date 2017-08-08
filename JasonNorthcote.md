@@ -1,5 +1,7 @@
 # Jason Northcote
+
 ## Principal Software Developer, Architect, DevOPS Engineer
+
 -----
 > 158 Forest View Dr. San Francisco, CA  
 > (415) 218-3795  
@@ -48,12 +50,7 @@ Lead Onboarding project initiative data layer design and REST API development
 * **Software Architect** - __Aug 2013-Apr 2014__
 Primary technical advisor on acquisition team responsible for talent and technology compatibility analysis and due diligence assessment
   * **Online calendar and appointment scheduling acquisition:** Lead technical assessment of two target companies and provided analysis and recommendation based on interviews with development team members, product team lead and architecture lead with an emphasis on technology, skillsets and industry knowledge
-  * **Primary Automotive vertical competitor acquisition:** Acted as primary acquisition team technical advisor during the 6 month process responsible for the following technical assessment and due diligence tasks
-    * Development team assessment of skillsets, seniority, knowledge coverage, SPOF personel identification
-    * Codebase quality, maturity, technologies used, third party license compliance, integration partnership dependencies
-    * Datacenter hardware, technology, reliability, disaster recovery, future scalability, fault tolerance
-    * Customer classification analysis matrix with an emphasis on retention prediction, supportability and revenue estimates based on subscribed services
-    * Deep dive into technical aspects of differentiators in their product offering. e.g. significantly better postcard target segmentation, rapid postcard production at reduced cost and elimination of manual proofing delays 
+  * **Primary Automotive vertical competitor acquisition:** Acted as primary acquisition team technical advisor during the 6 month process responsible assessment of the development team, codebase, infrastructure, customer retention and product offerings
       
 * **Software Architect** - __Aug 2013-Apr 2014__
 Lead the messaging backend architecture redesign effort focusing on maintainability, reliability, scalability and capability
@@ -87,4 +84,4 @@ Backend engineer performing in a "swiss army knife" role with a special focus on
   * Addressed numerous assorted issues requiring extensive "code archeology" within the massive legacy codebase with little to no documentation or remaining team knowledge
   * Designed a multi-tiered, full-text indexed message search system with multi-datacenter replication spanning over 400 nodes capable of handling the ~7 billion messages as a replacement for the existing non-redundant, non-reproducible message search system nearing capacity
     
-* **Skills:** _scalable systems, ci-cd concepts, java, c, c++, python, xslt, xerces, icu, multipart-mime encoding, multi-byte character encoding, i18n, i10n, jboss, yui, spring, akamai, tibco, oracle, bamboo, hudson, svn, perforce_
+* **Skills:** _scalable systems, ci-cd concepts, java, c, c++, python, xslt, i18n, i10n, jboss, spring, tibco, oracle, bamboo, hudson, svn, perforce_
