@@ -30,7 +30,7 @@ Joined the newly acquired Opsmatic team as a full stack engineer to help develop
     * Data classification and retention levels based on subscription type
     * Usage metering microservices for usage data collection and reporting to internal billing infrastructure services and AWS Marketplace infrastructure
 
-* **Skills:** _microservices, go, docker, consul, ec2, s3, mesos, marathon, terraform, chef, kafka, elasticsearch, cassandra, jenkins, openresty(nginx/lua), syslog, lvm, devicemapper, vagrant, nodejs, reactjs_
+* **Skills:** _go, docker, consul, ec2, s3, mesos, marathon, terraform, chef, kafka, elasticsearch, cassandra, jenkins, openresty, vagrant, nodejs, reactjs_
 
 #### [DemandForce.com](http://www.demandforce.com/) - Automated marketing, reputation and appointment management solution aimed at the small business segment (formerly a division of Intuit under the SMB organization divested in Feb 2016)
 
@@ -47,34 +47,35 @@ Lead Onboarding project initiative data layer design and REST API development
   * Implemented low level data API endpoints for legacy datastore entities and new onboarding datastore entities with built-in entity access filtering based on `Principal` identity as well as enabling complex dynamic JSON graph responses (up to 6 levels deep with protecttion against circular references) using a robust graph query language supporting paging, sorting and criteria based filtering at any layer of the graph
   * Implemented high level composite data API utilizing the low level APIs to construct pre-defined views for high traffic UI calls  
 
-* **Software Architect** - __Aug 2013-Apr 2014__
+* **Software Architect** - __Aug 2013-Apr 2014__  
+Lead strategic architecture design initiatives and acquisitions
   * Lead technical assessment of two online calendar and appointment scheduling companies and provided analysis and recommendation based on interviews with development team members, product team lead and architecture lead with an emphasis on technology, skillsets and industry knowledge
   * Acted as primary acquisition team technical advisor during a 6 month evaluation process of the primary automotive vertical competitor having responsiblity for assessment of the development team, codebase, infrastructure, customer retention and product offerings      
   * Lead the messaging backend architecture redesign effort focusing on maintainability, reliability, scalability and capability
     
-* **Staff Software Engineer** - __Jan 2013-Jul 2013__
+* **Staff Software Engineer** - __Jan 2013-Jul 2013__  
 Analytics and Revenue recognition team member
   * Identified and fixed multiple long standing issues in legacy code related to revenue calculation errors and discrepancies
   * Developed components of a data ETL pipeline from legacy sharded mysql databases to Amazon Redshift analytics datastore
   * Optimized several background maintenance stored procedures reducing execution time from hours to seconds using cursors, indexes, optimized temp tables and eliminating outer joins on inefficient sub-queries
     
-* **Skills:** _mysql, java, scala, nodejs, nginx, lua, consul, redshift, tomcat, jetty, httpd, spring, camel, hibernate, infinispan, jersey, jackson, rabbitmq, kafka, memcached, redis, elasticsearch, c3p0, aop, git, mercurial, docker, eclipse emf, andromda, velocity_
+* **Skills:** _mysql, java, scala, nodejs, nginx, lua, consul, redshift, tomcat, jetty, httpd, spring, camel, hibernate, infinispan, jersey, jackson, rabbitmq, kafka, memcached, redis, elasticsearch, docker_
 
 #### Payvment Inc. - Social commerce platform providing storefront creation on Facebook and later on Lish.com as well (acquired by Intuit Inc. in 2013)
 
-* **Principal Software Engineer** - __May 2011-Jan 2013__
+* **Principal Software Engineer** - __May 2011-Jan 2013__  
 Backend engineer responsible for all aspects of data access storage and integration
   * Developed conversion plan, associated scripts and engine tuning configuration to transition from the ISAM engine to InnoDB
   * Developed data access REST API java service to replace multiple legacy native PHP data access implementations each with serious issues including SQL injection vulnerabilities, orphaned rows, foreign key violations, lack of transaction management and cross session polution
   * Developed and implemented database design conversion plan to address issues related to extensive denormalized table definitions, reliance on external identifiers as primary keys, a lack of a principal identity entity and sub-entity ownership
 
-* **Skills:** _social relevance algorithms, mysql, elasticsearch, java, php, zookeeper, jboss, apache httpd, spring, hibernate, infinispan, jersey, jackson, rabbitmq, memcached, aop, git, maven, artifactory, jenkins, hadoop, magicdraw, andromda, velocity_
+* **Skills:** mysql, elasticsearch, java, php, zookeeper, jboss, apache httpd, spring, hibernate, infinispan, jersey, jackson, rabbitmq, memcached, jenkins, hadoop_
 
 #### [Yahoo! Groups](https://groups.yahoo.com)
 
-* **Senior Software Engineer** - __Jun 2008-Apr 2011__
+* **Senior Software Engineer** - __Jun 2008-Apr 2011__  
 Backend engineer performing in a "swiss army knife" role with a special focus on development projects to address operational issues
   * Addressed numerous assorted issues requiring extensive "code archeology" within the massive legacy codebase with little to no documentation or remaining team knowledge
   * Designed a multi-tiered, full-text indexed message search system with multi-datacenter replication spanning over 400 nodes capable of handling the ~7 billion messages as a replacement for the existing non-redundant, non-reproducible message search system nearing capacity
     
-* **Skills:** _scalable systems, ci-cd concepts, java, c, c++, python, xslt, i18n, i10n, jboss, spring, tibco, oracle, bamboo, hudson, svn, perforce_
+* **Skills:** java, c, c++, python, xslt, i18n, i10n, jboss, spring, tibco, oracle, bamboo, hudson, svn, perforce_
