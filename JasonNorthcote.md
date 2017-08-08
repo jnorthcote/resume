@@ -27,7 +27,7 @@ An experienced software developer with an affinity for operations oriented probl
 
 #### [New Relic Inc.](https://newrelic.com/) - SaSS application performance monitoring solution based in San Francisco and Portland OR
 
-##### Lead Software Engineer - Feb 2016-Feb 2017  
+* **Lead Software Engineer - Feb 2016-Feb 2017**  
 Joined the newly acquired Opsmatic team as a full stack engineer to help develop and launch the their new Infrastructure product offering with an aggressive one year hard launch deadline.  The team was was constructed as a nearly autonomous unit employing DevOPS and agile principals responsible for every phase of the development lifecycle from initial design to production deployment and on-call monitoring.  
   * Designed `docker-compose` based local development environment enabling rapid onboarding and code development
   * Made significant improvements to provisioning process and instance management including ami hardening, devicemapper volume configuration, syslog configuration, syslog shipping to Papertrail and `chef-solo` cookbook and provisioning enhancements
@@ -41,26 +41,26 @@ Joined the newly acquired Opsmatic team as a full stack engineer to help develop
 
 #### [DemandForce.com](http://www.demandforce.com/) - Automated marketing, reputation and appointment management solution aimed at the small business segment (formerly a division of Intuit under the SMB organization divested in Feb 2016)
 
-##### Principal Software Engineer - Feb 2015-Feb 2016  
+* **Principal Software Engineer - Feb 2015-Feb 2016**  
 Backend Engineer on dynamic data storage and ingest routing platform supporting the Intuit Local and Increased Upload Frequency initiatives
   * Designed and implemented data API gateway using OpenResty framework based on nginx+/Lua with API routing and segmented A/B percentage rules
   * Designed and implemented distributed configuration system based on Consul allowing changes to routing rules for API endpoints, segmenting criteria, segment criteria and explicit white/black listing clients as well as integrating with the Scala `ApplicationLoader` used to configure backend micro services
   * Designed `docker-compose` based development environment and production deployment systems
   * Improved docker production environment reliability, logging integration with Splunk, volume management and image version promotion and rollback
 
-##### Principal Software Engineer (Team Lead) - May 2014-Jan 2015  
+* **Principal Software Engineer (Team Lead) - May 2014-Jan 2015**  
 Lead Onboarding project initiative data layer design and REST API development
   * Designed and implemented a multi-layer data REST API generation framework using MDA principals based on UML generation from DDL definitions followed by Java/Jersey/Spring generation from UML models
   * Implemented low level data API endpoints for legacy datastore entities and new onboarding datastore entities with built-in entity access filtering based on `Principal` identity as well as enabling complex dynamic JSON graph responses (up to 6 levels deep with protecttion against circular references) using a robust graph query language supporting paging, sorting and criteria based filtering at any layer of the graph
   * Implemented high level composite data API utilizing the low level APIs to construct pre-defined views for high traffic UI calls  
 
-##### Software Architect - Aug 2013-Apr 2014  
+* **Software Architect - Aug 2013-Apr 2014**  
 Lead strategic architecture design initiatives and acquisitions
   * Lead technical assessment of two online calendar and appointment scheduling companies and provided analysis and recommendation based on interviews with development team members, product team lead and architecture lead with an emphasis on technology, skillsets and industry knowledge
   * Acted as primary acquisition team technical advisor during a 6 month evaluation process of the primary automotive vertical competitor having responsiblity for assessment of the development team, codebase, infrastructure, customer retention and product offerings      
   * Lead the messaging backend architecture redesign effort focusing on maintainability, reliability, scalability and capability
     
-##### Staff Software Engineer - Jan 2013-Jul 2013  
+* **Staff Software Engineer - Jan 2013-Jul 2013**  
 Analytics and Revenue recognition team member
   * Identified and fixed multiple long standing issues in legacy code related to revenue calculation errors and discrepancies
   * Developed components of a data ETL pipeline from legacy sharded mysql databases to Amazon Redshift analytics datastore
@@ -68,7 +68,7 @@ Analytics and Revenue recognition team member
 
 #### Payvment Inc. - Social commerce platform providing storefront creation on Facebook and later on Lish.com as well (acquired by Intuit Inc. in 2013)
 
-##### Principal Software Engineer - May 2011-Jan 2013  
+* **Principal Software Engineer - May 2011-Jan 2013**  
 Backend engineer responsible for all aspects of data access storage and integration
   * Developed conversion plan, associated scripts and engine tuning configuration to transition from the ISAM engine to InnoDB
   * Developed data access REST API java service to replace multiple legacy native PHP data access implementations each with serious issues including SQL injection vulnerabilities, orphaned rows, foreign key violations, lack of transaction management and cross session polution
@@ -76,7 +76,7 @@ Backend engineer responsible for all aspects of data access storage and integrat
 
 #### [Yahoo! Groups](https://groups.yahoo.com)
 
-##### Senior Software Engineer - Jun 2008-Apr 2011  
+* **Senior Software Engineer - Jun 2008-Apr 2011**  
 Backend engineer performing in a "swiss army knife" role with a special focus on development projects to address operational issues
   * Addressed numerous assorted issues requiring extensive "code archeology" within the massive legacy codebase with little to no documentation or remaining team knowledge
   * Designed a multi-tiered, full-text indexed message search system with multi-datacenter replication spanning over 400 nodes capable of handling the ~7 billion messages as a replacement for the existing non-redundant, non-reproducible message search system nearing capacity
