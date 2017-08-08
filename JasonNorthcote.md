@@ -18,7 +18,7 @@ An experienced software developer with an affinity for operations oriented probl
 
 #### [New Relic Inc.](https://newrelic.com/) - SaSS application performance monitoring solution based in San Francisco and Portland OR
 
-* **Lead Software Engineer** - __Feb 2016-Feb 2017__  
+**Lead Software Engineer** - __Feb 2016-Feb 2017__  
 Joined the newly acquired Opsmatic team as a full stack engineer to help develop and launch the their new Infrastructure product offering with an aggressive one year hard launch deadline.  The team was was constructed as a nearly autonomous unit employing DevOPS and agile principals responsible for every phase of the development lifecycle from initial design to production deployment and on-call monitoring.  
   * Designed `docker-compose` based local development environment enabling rapid onboarding and code development
   * Made significant improvements to provisioning process and instance management including ami hardening, devicemapper volume configuration, syslog configuration, syslog shipping to Papertrail and `chef-solo` cookbook and provisioning enhancements
