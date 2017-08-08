@@ -1,6 +1,6 @@
 # Jason Northcote
 ## Principal Software Developer, Architect, DevOPS Engineer
-
+-----
 > 158 Forest View Dr. San Francisco, CA  
 > (415) 218-3795  
 > [jason.northcote@gmail.com](jason.northcote@gmail.com)  
@@ -26,12 +26,9 @@ Joined the newly acquired Opsmatic team as a full stack engineer to help develop
     * Ingest sub-system subscription lifecycle handling for trial initiation, authorization, blacklisting and rate limiting
     * UI 'paywall' subscription states for None, Trial Started, Active/Data received and Expired
     * Data classification and retention levels based on subscription type
-    * Usage metering sub-system collecting instance/hr usage data based on agent heartbeat kafka messages flowing at a rate of 1/10s
-    * Usage reporting microservice sending metering data as kafka messages for consumption by internal billing infrastructure services
-    * Usage reporting microservice sending metering data as AWS Marketplace REST API calls as part of a beta integration partnership
+    * Usage metering microservices for usage data collection and reporting to internal billing infrastructure services and AWS Marketplace infrastructure
 
-* **Skills:** _microservices, go, docker, docker-compose, yaml, consul, ec2, s3, centos, mesos, marathon, terraform, chef, ruby, kafka, REST elasticsearch, cassandra, jenkins, openresty(nginx/lua), syslog, lvm, devicemapper, papertrail, bash, vagrant, virtualbox, vmware, nodejs, reactjs, webpack, json, thrift, git, maven_
-      
+* **Skills:** _microservices, go, docker, consul, ec2, s3, mesos, marathon, terraform, chef, kafka, elasticsearch, cassandra, jenkins, openresty(nginx/lua), syslog, lvm, devicemapper, vagrant, nodejs, reactjs_
 
 #### [DemandForce.com](http://www.demandforce.com/) - Automated marketing, reputation and appointment management solution aimed at the small business segment (formerly a division of Intuit under the SMB organization divested in Feb 2016)
 
@@ -71,9 +68,9 @@ Analytics and Revenue recognition team member
   * Developed components of a data ETL pipeline from legacy sharded mysql databases to Amazon Redshift analytics datastore
   * Optimized several background maintenance stored procedures reducing execution time from hours to seconds using cursors, indexes, optimized temp tables and eliminating outer joins on inefficient sub-queries
     
-* **Skills:** _mysql, java, scala, nodejs, nginx, lua, consul, redshift, splunk, dynatrace, tomcat, jetty, jboss resource adapter, atomikos, apache httpd, spring, camel, hibernate, infinispan, jersey, jackson, rabbitmq, kafka, memcached, redis, elasticsearch, c3p0, aop, git, mercurial, docker, docker-compose, yaml, maven, eclipse emf, andromda, velocity_
+* **Skills:** _mysql, java, scala, nodejs, nginx, lua, consul, redshift, tomcat, jetty, httpd, spring, camel, hibernate, infinispan, jersey, jackson, rabbitmq, kafka, memcached, redis, elasticsearch, c3p0, aop, git, mercurial, docker, eclipse emf, andromda, velocity_
 
-#### Payvment Inc. - Formerly a social commerce platform initially focused on allowing small businesses to easily setup a storefront on Facebook leveraging the platform's social interaction and advertising capabilities.  The company later rebranded and launched Lish.com as an alternative social commerce site independent of the Facebook platform (acquired by Intuit Inc. in 2013)
+#### Payvment Inc. - Social commerce platform providing storefront creation on Facebook and later on Lish.com as well (acquired by Intuit Inc. in 2013)
 
 * **Principal Software Engineer** - __May 2011-Jan 2013__
 Backend engineer responsible for all aspects of data access storage and integration
