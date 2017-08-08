@@ -18,7 +18,7 @@ An experienced software developer with an affinity for operations oriented probl
 
 #### [New Relic Inc.](https://newrelic.com/) - SaSS application performance monitoring solution based in San Francisco and Portland OR
 
-**Lead Software Engineer** - __Feb 2016-Feb 2017__  
+* **Lead Software Engineer** - __Feb 2016-Feb 2017__  
 Joined the newly acquired Opsmatic team as a full stack engineer to help develop and launch the their new Infrastructure product offering with an aggressive one year hard launch deadline.  The team was was constructed as a nearly autonomous unit employing DevOPS and agile principals responsible for every phase of the development lifecycle from initial design to production deployment and on-call monitoring.  
   * Designed `docker-compose` based local development environment enabling rapid onboarding and code development
   * Made significant improvements to provisioning process and instance management including ami hardening, devicemapper volume configuration, syslog configuration, syslog shipping to Papertrail and `chef-solo` cookbook and provisioning enhancements
@@ -48,16 +48,9 @@ Lead Onboarding project initiative data layer design and REST API development
   * Implemented high level composite data API utilizing the low level APIs to construct pre-defined views for high traffic UI calls  
 
 * **Software Architect** - __Aug 2013-Apr 2014__
-Primary technical advisor on acquisition team responsible for talent and technology compatibility analysis and due diligence assessment
-  * **Online calendar and appointment scheduling acquisition:** Lead technical assessment of two target companies and provided analysis and recommendation based on interviews with development team members, product team lead and architecture lead with an emphasis on technology, skillsets and industry knowledge
-  * **Primary Automotive vertical competitor acquisition:** Acted as primary acquisition team technical advisor during the 6 month process responsible assessment of the development team, codebase, infrastructure, customer retention and product offerings
-      
-* **Software Architect** - __Aug 2013-Apr 2014__
-Lead the messaging backend architecture redesign effort focusing on maintainability, reliability, scalability and capability
-  * **Maintainability:** Separation of messaging code from the monolith, remove(reduce) crippling (sometimes circular) dependencies on the monthly 'train deployment', code repository isolation increases visibility and better enables tracking root cause changes
-  * **Reliability:** Service separation enables better monitoring, point of failure identification in multi-phase message processing and delivery, transient failures can be handled/re-tried better within isolated services
-  * **Scalability:** Separate services can be scaled individually based on resource needs, backpressure and congestion are more readily identifiable
-  * **Capability:** Expanding service capabilities in each phase (queuing, decoration, parsing, formatting, delivery) is simplified when each concern can be addressed in isolation, e.g. moving to a better queueing technology, adding voice as a delivery endpoint
+  * Lead technical assessment of two online calendar and appointment scheduling companies and provided analysis and recommendation based on interviews with development team members, product team lead and architecture lead with an emphasis on technology, skillsets and industry knowledge
+  * Acted as primary acquisition team technical advisor during a 6 month evaluation process of the primary automotive vertical competitor having responsiblity for assessment of the development team, codebase, infrastructure, customer retention and product offerings      
+  * Lead the messaging backend architecture redesign effort focusing on maintainability, reliability, scalability and capability
     
 * **Staff Software Engineer** - __Jan 2013-Jul 2013__
 Analytics and Revenue recognition team member
