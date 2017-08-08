@@ -7,7 +7,7 @@
 > (415) 218-3795  
 > [jason.northcote@gmail.com](jason.northcote@gmail.com)  
 > [www.linkedin.com/in/jason-northcote](https://www.linkedin.com/in/jason-northcote)  
-> [Download PDF](resume.pdf)  
+> [Download PDF](https://github.com/jnorthcote/resume/releases/download/2017-08-08/JasonNorthcote.pdf)  
 
 ------
 ### Profile
