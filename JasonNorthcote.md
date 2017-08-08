@@ -83,7 +83,7 @@ Backend engineer responsible for all aspects of data access storage and integrat
 
 * **Skills:** _social relevance algorithms, mysql, elasticsearch, java, php, zookeeper, jboss, apache httpd, spring, hibernate, infinispan, jersey, jackson, rabbitmq, memcached, aop, git, maven, artifactory, jenkins, hadoop, magicdraw, andromda, velocity_
 
-#### [Yahoo! Groups](https://groups.yahoo.com) - Formerly a relevant search engine, mail provider and web portal
+#### [Yahoo! Groups](https://groups.yahoo.com)
 
 * **Senior Software Engineer** - __Jun 2008-Apr 2011__
 Backend engineer performing in a "swiss army knife" role with a special focus on development projects to address operational issues
