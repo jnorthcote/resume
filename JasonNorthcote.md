@@ -14,15 +14,6 @@
 An experienced software developer with an affinity for operations oriented problem solving and a professional career spanning 20+ years working for companies ranging from global corporations having 15k+ employees to 5 person shops run from the owner's basement.  While having occupied most roles possible within an engineering organization, a return to a role focused on developing solutions aimed at solving operational challenges is preferable
 
 ------
-### Skills
-* **Languages:** _Go, Java, Scala, Javascript, Lua, C, C++, Python, SQL, PHP, Ruby_
-* **Frameworks:** _Spring, Camel, Jersey, Jackson, Hibernate, Infinispan, ReactJS_
-* **Provisioning/CI/CD:** _Mesos, Marathon, Terraform, Chef, Docker, Vagrant, Jenkins, Bamboo, Hudson_
-* **Storage and Messaging:** _Oracle, MySql, Cassandra, Hadoop, Memcached, Redis, Elasticsearch, Kafka, RabbitMQ, Tibco EMS_
-* **Cloud and Servers:** _EC2, S3, Redshift, Tomcat, Jetty, Httpd, JBoss, Nginx, Consul, Zookeeper_
-* **SCM:** _Git, SVN, Perforce, Mercurial, CVS_
-
-------
 ### Experience
 
 #### [Intuit Inc.](https://intuit.com/) - TurboTax, Quickbooks and Mint based in Mountain View CA
@@ -41,6 +32,8 @@ Lead development on containerization of the QBO application and conversion of th
     * Created image definitions for shared base images, the QBO runtime, java and docker builder images, and optimized repository reference images for git and maven
     * Adapted the QBO shell execution plan into a scripted pipeline with the initial goal being functional parity followed by enhancements to reduce productivity losses caused by broken builds due to defect promotion.
 
+* **Relevant Skills**: _Kubernetes, Jenkins Blue Ocean, Terraform, AWS(EC2,ECR,S3,ACM.VPC), Groovy, Go, Java, Docker tools, Kafka, Git_
+
 
 #### [New Relic Inc.](https://newrelic.com/) - SaSS application performance monitoring solution based in San Francisco and Portland OR
 
@@ -55,3 +48,5 @@ Joined the newly acquired Opsmatic team as a full stack engineer to help develop
     * UI 'paywall' subscription states for None, Trial Started, Active/Data received and Expired
     * Data classification and retention levels based on subscription type
     * Usage metering microservices for usage data collection and reporting to internal billing infrastructure services and AWS Marketplace infrastructure
+
+* **Relevant Skills**: _Mesos, Marathon, Terraform, Chef, Docker, Vagrant, AWS(EC2,ECR,S3,ACM.VPC), Go, Java, Oracle, MySql, Cassandra, Redis, Elasticsearch, Kafka, Git_
