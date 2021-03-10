@@ -19,7 +19,7 @@ An experienced software developer with an affinity for operations oriented probl
 #### [Intuit Inc.](https://intuit.com/) - TurboTax, Quickbooks and Mint based in Mountain View CA
 
 * **Staff Software Engineer (Modern SaaS Team) - Jun 2018-Apr 2019**  
-The huge success of the QBO containerization work, measured by significant gains in build confidence and product quality, effectively eliminated the need for a traditional pre-production environment or support team. We transitioned to a centralized service provider as part of a `1-click` service registration, provisioning and deployment orchestration fabric the Modern SaaS Team responsible for scaling up the work  
+The huge success of the QBO containerization work, measured by significant gains in build confidence and product quality, effectively eliminated the need for a traditional pre-production environment or support team. We transitioned to a centralized service provider as part of a `1-click` service registration, provisioning and deployment orchestration fabric. The Modern SaaS Team was responsible for adapting the work done for QBO to enterprise scale
   * Developed Blue Ocean instance template, bootstrap scripting and REST accessible management jobs used to provision and maintain a fleet of instances each scoped to a registered development organization
   * Developed a shared library based service pipeline template and job DSL based provisioning API used to generate job hierarchy with project scoped secrets and role based permissions
 
