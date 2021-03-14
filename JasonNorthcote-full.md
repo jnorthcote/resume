@@ -18,7 +18,7 @@ An experienced software developer with an affinity for operations oriented probl
 
 * **Server(s) design and Administration (Mobile MMO single and multi-clan dedicated servers) - Mar 2020-???**  
 Requested administrative access from the owner(Admiral) of the discord server created for our clan(Alliance) with the goal of making it an effective communication and education resource
-  * Implemented a multi-dimensional role structure encompassing in-game ranks, social/vanity titles and discord permissions along with a restructured category and channel structure having visibility tiers Airlock/Ambassador/Member/Leader having text and voice channels configured for each  
+  * Implemented a multi-dimensional role structure encompassing in-game ranks, social/vanity titles and discord permissions along with a restructured category and channel structure with tiered visibility (Airlock/Ambassador/Member/Leader) and having text and voice channels configured for each purpose 
   * Created a containerized bot based on an open-source python project that would process in-game screenshots uploaded/taken from multiple mobile and emulator devices using Google OCR to extract text based on a relative grid definition and index the data (actors, location, circumstance, etc.) as well as posting an embed containing the details of the incident and assessment of fault based on a complex matrix of agreed "Rules Of Engagement"
 
 * **Relevant Skills**: _Discord, GCP(KE,OCR), Python, Elasticsearch, Docker tools, Git_
