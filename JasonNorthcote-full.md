@@ -13,27 +13,24 @@ An experienced software developer with an affinity for operations oriented probl
 
 ------
 ### Personal
-
-#### [Discord](https://discord.com/) - Social communication and collaboration platform
-
-* **Server(s) design and Administration (Mobile MMO single and multi-clan dedicated servers) - Mar 2020-???**  
+#### [Discord](https://discord.com/) - Social communication and collaboration platform  
+**Server(s) design and Administration (Mobile MMO single and multi-clan dedicated servers) - Mar 2020-???**  
 Requested administrative access from the owner(Admiral) of the discord server created for our clan(Alliance) with the goal of making it an effective communication and education resource
-  * Implemented a multi-dimensional role structure encompassing in-game ranks, social/vanity titles and discord permissions along with a restructured category and channel structure with tiered visibility (Airlock/Ambassador/Member/Leader) and having text and voice channels configured for each purpose 
-  * Created a containerized bot based on an open-source python project that would process in-game screenshots uploaded/taken from multiple mobile and emulator devices using Google OCR to extract text based on a relative grid definition and index the data (actors, location, circumstance, etc.) as well as posting an embed containing the details of the incident and assessment of fault based on a complex matrix of agreed "Rules Of Engagement"
+* Implemented a multi-dimensional role structure encompassing in-game ranks, social/vanity titles and discord permissions along with a restructured category and channel structure with tiered visibility (Airlock/Ambassador/Member/Leader) and having text and voice channels configured for each purpose
+* Created a containerized bot based on an open-source python project that would process in-game screenshots uploaded/taken from multiple mobile and emulator devices using Google OCR to extract text based on a relative grid definition and index the data (actors, location, circumstance, etc.) as well as posting an embed containing the details of the incident and assessment of fault based on a complex matrix of agreed "Rules Of Engagement"
 
-* **Relevant Skills**: _Discord, GCP(KE,OCR), Python, Elasticsearch, Docker tools, Git_
+**Relevant Skills**: _Discord, GCP(KE,OCR), Python, Elasticsearch, Docker tools, Git_
 
 ------
 ### Professional
-
 #### [Intuit Inc.](https://intuit.com/) - TurboTax, Quickbooks and Mint based in Mountain View CA
 
-* **Staff Software Engineer (Modern SaaS Team) - Jun 2018-Apr 2019**  
+**Staff Software Engineer (Modern SaaS Team) - Jun 2018-Apr 2019**  
 The huge success of the QBO containerization work, measured by significant gains in build confidence and product quality, effectively eliminated the need for a traditional pre-production environment or support team. We transitioned to a centralized service provider as part of a `1-click` service registration, provisioning and deployment orchestration fabric. The Modern SaaS Team was responsible for adapting the work done for QBO to enterprise scale
   * Developed Blue Ocean instance template, bootstrap scripting and REST accessible management jobs used to provision and maintain a fleet of instances each scoped to a registered development organization
-  * Developed a shared library based service pipeline template and job DSL based provisioning API used to generate job hierarchy with project scoped secrets and role based permissions
+  * Developed a shared library based service pipeline template and job DSL based provisioning API used to generate job hierarchy with project scoped secrets and role based permissions  
 
-* **Staff Software Engineer (Quickbooks Online Pre-production Support & Tools) - Aug 2017-Jun 2018**  
+**Staff Software Engineer (Quickbooks Online Pre-production Support & Tools) - Aug 2017-Jun 2018**  
 Lead development on containerization of the QBO application and conversion of the existing CICD process to a container native one from the initial proof-of-concept to production readiness
   * Pair-developed the infrastructure deployment definitions
     * Terraform templates for deploying Kubernetes clusters in the `corp` zone for Jenkins Blue Ocean and the `qa` zone for ephemeral instances of the QBO application
@@ -42,11 +39,11 @@ Lead development on containerization of the QBO application and conversion of th
     * Created image definitions for shared base images, the QBO runtime, java and docker builder images, and optimized repository reference images for git and maven
     * Adapted the QBO shell execution plan into a scripted pipeline with the initial goal being functional parity followed by enhancements to reduce productivity losses caused by broken builds due to defect promotion.
 
-* **Relevant Skills**: _Kubernetes, Jenkins Blue Ocean, Terraform, AWS(EC2,ECR,S3,ACM.VPC), Groovy, Go, Java, Docker tools, Kafka, Git_
+**Relevant Skills**: _Kubernetes, Jenkins Blue Ocean, Terraform, AWS(EC2,ECR,S3,ACM.VPC), Groovy, Go, Java, Docker tools, Kafka, Git_
 
-#### [New Relic Inc.](https://newrelic.com/) - SaSS application performance monitoring solution based in San Francisco and Portland OR
+#### [New Relic Inc.](https://newrelic.com/) - SaSS application performance monitoring solution based in San Francisco and Portland OR  
 
-* **Lead Software Engineer - Feb 2016-Feb 2017**  
+**Lead Software Engineer - Feb 2016-Feb 2017**  
 Joined the newly acquired Opsmatic team as a full stack engineer to help develop and launch the new Infrastructure product offering with an aggressive one year hard launch deadline.  The team was was constructed as a nearly autonomous unit employing DevOPS and agile principals responsible for every phase of the development lifecycle from initial design to production deployment and on-call monitoring.  
   * Designed `docker-compose` based local development environment enabling rapid onboarding and code development
   * Made significant improvements to provisioning process and instance management including ami hardening, devicemapper volume configuration, syslog configuration, syslog shipping to Papertrail and `chef-solo` cookbook and provisioning enhancements
@@ -58,7 +55,7 @@ Joined the newly acquired Opsmatic team as a full stack engineer to help develop
     * Data classification and retention levels based on subscription type
     * Usage metering microservices for usage data collection and reporting to internal billing infrastructure services and AWS Marketplace infrastructure
 
-* **Relevant Skills**: _Mesos, Marathon, Terraform, Chef, Docker, Vagrant, AWS(EC2,ECR,S3,ACM.VPC), Go, Java, Oracle, MySql, Cassandra, Redis, Elasticsearch, Kafka, Git_
+**Relevant Skills**: _Mesos, Marathon, Terraform, Chef, Docker, Vagrant, AWS(EC2,ECR,S3,ACM.VPC), Go, Java, Oracle, MySql, Cassandra, Redis, Elasticsearch, Kafka, Git_
 
 #### [DemandForce.com](http://www.demandforce.com/) - Automated marketing, reputation and appointment management solution aimed at the small business segment (formerly a division of Intuit under the SMB organization divested in Feb 2016)
 
