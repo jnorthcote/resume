@@ -12,7 +12,19 @@
 An experienced software developer with an affinity for operations oriented problem solving and a professional career spanning 20+ years working for companies ranging from global corporations having 15k+ employees to 5 person shops run from the owner's basement.  While having occupied most roles possible within an engineering organization, a return to a role focused on developing solutions aimed at solving operational challenges is preferable
 
 ------
-### Experience
+### Personal
+
+#### [Discord](https://discord.com/) - Social communication and collaboration platform
+
+* **Server(s) design and Administration (Mobile MMO single and multi-clan dedicated servers) - Mar 2020-???**  
+Requested administrative access from the owner(Admiral) of the discord server created for our clan(Alliance) with the goal of making it an effective communication and education resource
+  * Implemented a multi-dimensional role structure encompassing in-game ranks, social/vanity titles and discord permissions along with a restructured category and channel structure having visibility tiers Airlock/Ambassador/Member/Leader having text and voice channels configured for each  
+  * Created a containerized bot based on an open-source python project that would process in-game screenshots uploaded/taken from multiple mobile and emulator devices using Google OCR to extract text based on a relative grid definition and index the data (actors, location, circumstance, etc.) as well as posting an embed containing the details of the incident and assessment of fault based on a complex matrix of agreed "Rules Of Engagement"
+
+* **Relevant Skills**: _Discord, GCP(KE,OCR), Python, Elasticsearch, Docker tools, Git_
+
+------
+### Professional
 
 #### [Intuit Inc.](https://intuit.com/) - TurboTax, Quickbooks and Mint based in Mountain View CA
 
