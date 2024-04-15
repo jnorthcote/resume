@@ -5,23 +5,24 @@
 -----
 > [jason.northcote@gmail.com](jason.northcote@gmail.com)  
 > [www.linkedin.com/in/jason-northcote](https://www.linkedin.com/in/jason-northcote)  
-> [Download PDF](https://github.com/jnorthcote/resume/releases/download/2021-03-09/JasonNorthcote.pdf)  
+> [Download PDF](https://github.com/jnorthcote/resume/releases/download/full/JasonNorthcote.pdf)  
 
 ------
 ### Profile
-An experienced software developer with an affinity for operations oriented problem solving and a professional career spanning 20+ years working for companies ranging from global corporations having 15k+ employees to 5 person shops run from the owner's basement.  While having occupied most roles possible within an engineering organization, a return to a role focused on developing solutions aimed at solving operational challenges is preferable
+An experienced software developer with an affinity for operations oriented problem solving and a professional career spanning 25+ years working for companies ranging from global corporations having 15k+ employees to 5 person shops run from the owner's basement.  While having occupied most roles possible within an engineering organization, a return to a role focused on developing solutions aimed at solving operational challenges is preferable
 
 ------
 ### Personal
 
-#### [Discord](https://discord.com/) - Social communication and collaboration platform
+#### [Nova OCR Bot](https://github.com/jnorthcote/ocr-bot-discord) for [Discord](https://discord.com/) - A Social communication and collaboration platform
 
-* **Server(s) design and Administration (Mobile MMO single and multi-clan dedicated servers) - Mar 2020-???**  
-Requested administrative access from the owner(Admiral) of the discord server created for our clan(Alliance) with the goal of making it an effective communication and education resource
+* **Server design, Administration, and bot development (Mobile MMO single and multi-clan dedicated servers) - Mar 2018-**  
+Requested administrative access from the owners of multiple discord servers created for different communities with the goal of making them an effective communication and education resource
   * Implemented a multi-dimensional role structure encompassing in-game ranks, social/vanity titles and discord permissions along with a restructured category and channel structure with tiered visibility (Airlock/Ambassador/Member/Leader) and having text and voice channels configured for each purpose
-  * Created a containerized bot based on an open-source python project that would process in-game screenshots uploaded/taken from multiple mobile and emulator devices using Google OCR to extract text based on a relative grid definition and index the data (actors, location, circumstance, etc.) as well as posting an embed containing the details of the incident and assessment of fault based on a complex matrix of agreed "Rules Of Engagement"
-
-* **Relevant Skills**: _Discord, GCP(KE,OCR), Python, Elasticsearch, Docker tools, Git_
+  * Created a containerized bot based on an open-source python project that would process in-game screenshots uploaded/taken from multiple mobile and emulator devices using Google OCR to extract text based on a relative grid definition and index the data (actors, location, circumstance, etc.) 
+  * Added an interactive library interface to access the indexed data which is then displayed via embeds or downloadable text tables.
+  * Added Jenkins based CICD for automated deployment to production serving [Nova: Space Armada Official](https://discord.gg/4McsHb8z)
+* **Relevant Skills**: _Discord, Discord.py, GCP(GKE,OCR,Translate), Python, Elasticsearch, Docker tools, Git, Jenkins_
 
 ------
 ### Professional
